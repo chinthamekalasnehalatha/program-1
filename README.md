@@ -1,4 +1,4 @@
-Area of circle
+
 pi= 3.14
 r = float(input("input the radius of the circle:"))
 area = pi * r * r
